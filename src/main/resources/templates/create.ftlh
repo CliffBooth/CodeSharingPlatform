@@ -22,6 +22,8 @@
 <label>enter number of available time: <input type="number" id="time" value="0"></label>
 <br>
 <label>enter number of available views: <input type="number" id="views" value="0"></label>
+<br>
+<a href="/code/latest">latest</a>
 </body>
 <script>
     function send() {

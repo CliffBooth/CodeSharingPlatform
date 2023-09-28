@@ -34,5 +34,6 @@
         </code>
     </pre>
 </#list>
+<a href="/code/new">new</a>
 </body>
 </html>
